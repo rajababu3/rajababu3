@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**rajababu3/rajababu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a founder and developer at [HathTech Innovations Private Limited](https://hathtech.com) in Bangalore, IN 🌆
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a new venture idea.
+- 🧑‍ I’m looking to collaborate on open source projects
+- 💬 Ask me about Artificial Intelligence, Machine Learning, Flutter, dart, Hasura, ReactJs.
+- 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Github Stats
+
+[![Raja's Github Stats](https://github-readme-stats.vercel.app/api?username=rajababu3&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
