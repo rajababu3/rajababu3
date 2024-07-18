@@ -9,6 +9,3 @@ I'm a founder and developer at [HathTech Innovations Private Limited](https://ha
 
 
 
-### Github Stats
-
-[![Raja's Github Stats](https://github-readme-stats.vercel.app/api?username=rajababu3&count_private=true&theme=default&show_icons=true)](https://github.com/felangel)
